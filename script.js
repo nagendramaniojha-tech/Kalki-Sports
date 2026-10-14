@@ -1,6 +1,6 @@
 // IMPORTANT: Replace this with your WhatsApp number in international format, digits only.
 // Example for India: 919876543210 (do not include +, spaces, or dashes).
-const WHATSAPP_NUMBER = "ADD_YOUR_NUMBER_HERE";
+const WHATSAPP_NUMBER = "917355586027";
 
 function openWhatsApp(product = "Kalki Sports products") {
   if (!/^\d{10,15}$/.test(WHATSAPP_NUMBER)) {
