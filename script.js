@@ -1,6 +1,7 @@
 // IMPORTANT: Replace this with your WhatsApp number in international format, digits only.
 // Example for India: 919876543210 (do not include +, spaces, or dashes).
 const WHATSAPP_NUMBER = "917355586027";
+const INSTAGRAM_URL = “https://www.instagram.com/https://www.instagram.com/kalkisportsofficial?dlrf=MWQ0YTNlb3Brd3l0cw==/”;
 
 function openWhatsApp(product = "Kalki Sports products") {
   if (!/^\d{10,15}$/.test(WHATSAPP_NUMBER)) {
